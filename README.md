@@ -1,2 +1,1 @@
-# Git-Commands
-For assignment 1.
+Hello Odin!
